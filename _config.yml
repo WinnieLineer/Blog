@@ -1,0 +1,7 @@
+title: Winnie Lin's Blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://winnielin.github.io"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
